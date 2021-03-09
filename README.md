@@ -1,4 +1,4 @@
-# Eqinfo Translations
+# EQInfo Translations
 
 This repository hosts the translation tables of the gempa [EQInfo mobile app](https://play.google.com/store/apps/details?id=de.gempa.android.eqinfo).
 
