@@ -12,3 +12,5 @@ There are two options to contribute your translation:
 1. Fork this repository and create a pull request.
 2. Send your translation file to android-dev (at) gempa.de and we will
    merge it into the code base.
+
+To add a new language you can start with the `eqinfo_en.ts` file (copy and rename it).
