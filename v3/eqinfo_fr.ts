@@ -6,12 +6,12 @@
     <message>
         <location filename="../../app/view/Views/DyfiViewFirst.qml" line="56"/>
         <source>What did you feel?</source>
-        <translation type="unfinished">Qu\&apos;avez vous ressenti?</translation>
+        <translation>Qu&apos;avez vous ressenti?</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewFirst.qml" line="160"/>
         <source>I felt this</source>
-        <translation type="unfinished">Je l\&apos;ai ressenti</translation>
+        <translation>Je l&apos;ai ressenti</translation>
     </message>
 </context>
 <context>
@@ -20,49 +20,49 @@
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="80"/>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="106"/>
         <source>Sending Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer un rapport</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="161"/>
         <source>Intensity Level</source>
-        <translation type="unfinished">Niveau d\&apos;intensité</translation>
+        <translation>Niveau d\&apos;intensité</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="182"/>
         <source>Associated Earthquake (optional)</source>
-        <translation type="unfinished">Seisme associé (optionnel)</translation>
+        <translation>Séisme associé (optionnel)</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="193"/>
         <source>Click to select one in your vicinity!</source>
-        <translation type="unfinished">Cliquer pour en choisir un dans les environs!</translation>
+        <translation>Cliquer pour en choisir un dans les environs!</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="224"/>
         <source>Location of observation</source>
-        <translation type="unfinished">Position de l\&apos;observation</translation>
+        <translation>Position de l&apos;observation</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="247"/>
         <source>Date of observation</source>
-        <translation type="unfinished">Date de l\&apos;observation</translation>
+        <translation>Date de l&apos;observation</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="270"/>
         <source>Time of observation</source>
-        <translation type="unfinished">Heure de l\&apos;observation</translation>
+        <translation>Heure de l&apos;observation</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="319"/>
         <source>Cancel</source>
         <extracomment>For a dialog</extracomment>
-        <translation type="unfinished">Abandonner</translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/DyfiViewSecond.qml" line="333"/>
         <source>Send</source>
         <extracomment>Send a &apos;did you feel it&apos; report</extracomment>
-        <translation type="unfinished">Envoyer</translation>
+        <translation>Envoyer</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
         <location filename="../../app/view/Views/EventDetailsEQI.qml" line="50"/>
         <source>Earthquake Information</source>
         <extracomment>Title of section with details about the event</extracomment>
-        <translation type="unfinished">Information sur le séisme</translation>
+        <translation>Information sur le séisme</translation>
     </message>
 </context>
 <context>
@@ -80,65 +80,65 @@
         <location filename="../../app/view/Components/FilterDetails.qml" line="56"/>
         <source>less than %1 %2</source>
         <extracomment>&apos;less than&apos; &apos;3 days&apos;(%1) &apos;ago&apos;(%2) / &apos;500km&apos;(%1) &apos;away&apos;(%2)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>depuis moins de %1 %2</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="59"/>
         <source>more than %1 %2</source>
         <extracomment>&apos;more than&apos; &apos;3 days&apos;(%1) &apos;ago&apos;(%2) / &apos;500km&apos;(%1) &apos;away&apos;(%2)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>depuis plus de %1 %2</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="63"/>
         <source>%1 - %2 %3</source>
         <extracomment>eg. 200km - 1300km away / &apos;200km&apos; - &apos;1300km&apos; &apos;away&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2 %3</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="73"/>
         <source>below %1</source>
         <extracomment>for magnitude only</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>en dessous de %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="76"/>
         <source>greater than %1</source>
         <extracomment>for magnitude only</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>au dessus de %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="89"/>
         <source>Unnamed filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre sans nom</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="120"/>
         <source>Magnitude: </source>
-        <translation type="unfinished">Magnitude:</translation>
+        <translation>Magnitude: </translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="135"/>
         <source> days ago</source>
         <extracomment>less/more than 3 &apos;days ago&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> jours</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="167"/>
         <source> away</source>
         <extracomment>more/less than 20km &apos;away&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> distant</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="150"/>
         <source>Depth: </source>
         <extracomment>The depth of an event</extracomment>
-        <translation type="unfinished">Profondeur:</translation>
+        <translation>Profondeur: </translation>
     </message>
     <message>
         <location filename="../../app/view/Components/FilterDetails.qml" line="165"/>
         <source>Distance: </source>
         <extracomment>Between two points on the map</extracomment>
-        <translation type="unfinished">Distance:</translation>
+        <translation>Distance: </translation>
     </message>
 </context>
 <context>
@@ -147,7 +147,7 @@
         <location filename="../../app/view/Components/OverviewMapEQI.qml" line="262"/>
         <source>Distance</source>
         <extracomment>Between two points on the map</extracomment>
-        <translation type="unfinished">Distance</translation>
+        <translation>Distance</translation>
     </message>
 </context>
 <context>
@@ -155,41 +155,42 @@
     <message>
         <location filename="../../app/view/Pages/PageConnectStation.qml" line="65"/>
         <source>Connect your station</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectez vôtre station</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageConnectStation.qml" line="75"/>
         <source>You can chose any station to see
  earthquake recordings</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez choisir chaque station pour 
+voir les enregistrements sismiques</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageConnectStation.qml" line="85"/>
         <source>Station not found</source>
         <extracomment>If the entered id was not found</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Station non trouvée</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageConnectStation.qml" line="104"/>
         <source>Enter station ID</source>
         <extracomment>Enter the id in a text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Entrer le nom de la station</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageConnectStation.qml" line="177"/>
         <source>Save</source>
         <extracomment>&apos;Save&apos; some settings</extracomment>
-        <translation type="unfinished">Sauver</translation>
+        <translation>Sauver</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageConnectStation.qml" line="189"/>
         <source>Don&apos;t have a station, yet?</source>
-        <translation type="unfinished"></translation>
+        <translation>N&apos;avez vous pas encore de station?</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageConnectStation.qml" line="199"/>
         <source>Check Out Our Shop</source>
-        <translation type="unfinished"></translation>
+        <translation>Visiter notre magasin</translation>
     </message>
 </context>
 <context>
@@ -198,31 +199,31 @@
         <location filename="../../app/view/Pages/PageEventList.qml" line="214"/>
         <source>Magnitude %1+</source>
         <extracomment>Above a certain magnitude</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Magnitude %1+</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageEventList.qml" line="217"/>
         <source>%1 away</source>
         <extracomment>A certain distance away eg. &apos;20km away&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 distant</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageEventList.qml" line="221"/>
         <source>Ground motion below %1 m/s</source>
         <extracomment>&apos;below&apos; a certain value</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mouvement du sous-sol ci-dessous %1 m/s</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageEventList.qml" line="241"/>
         <source>%1 Earthquakes total</source>
         <extracomment>eg. &apos;200 Earthquakes total&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Total des tremblements de terre</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageEventList.qml" line="243"/>
         <source>%1 in current filter</source>
         <extracomment>A certain number of events that are currently displayed, because of the filter settings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 dans le filtre actuel</translation>
     </message>
 </context>
 <context>
@@ -230,7 +231,7 @@
     <message>
         <location filename="../../app/view/Pages/PageFelt.qml" line="37"/>
         <source>Did you feel an earthquake?</source>
-        <translation type="unfinished">Avez vous ressenti un séisme?</translation>
+        <translation>Avez vous ressenti un séisme?</translation>
     </message>
 </context>
 <context>
@@ -239,7 +240,7 @@
         <location filename="../../app/view/Pages/PageMap.qml" line="195"/>
         <source>Depth color</source>
         <extracomment>Title for the map legend, showing the colors for certain event depths</extracomment>
-        <translation type="unfinished">Couleur suivant la profondeur</translation>
+        <translation>Couleur suivant la profondeur</translation>
     </message>
 </context>
 <context>
@@ -248,128 +249,130 @@
         <location filename="../../app/view/Pages/PageSettings.qml" line="77"/>
         <source>Settings</source>
         <extracomment>Title for the settings page</extracomment>
-        <translation type="unfinished">Réglages</translation>
+        <translation>Réglages</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="133"/>
         <source>Earthquake solutions</source>
-        <translation type="unfinished">Sources de données</translation>
+        <translation>Sources de données</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="134"/>
         <source>Agencies, priorities and connection settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Agences, priorités et réglages de connection (Réglage agences, priorités, connection)</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="141"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtrer</translation>
+        <translation>Filtrer</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="142"/>
         <source>Earthquake filter parameters</source>
-        <translation type="unfinished">Paramètres de filtre des tremblements de terre</translation>
+        <translation>Paramètres de filtre des séismes</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="149"/>
         <source>Sorting</source>
-        <translation type="unfinished">Trier</translation>
+        <translation>Trier</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="157"/>
         <source>Seismic Data</source>
-        <translation type="unfinished">Donnée sismiques</translation>
+        <translation>Données sismiques</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="158"/>
         <source>Recorded by a Raspberry Shake personal seismograph</source>
-        <translation type="unfinished">Enregistré par un Sismomètre Raspberry Shake personnel</translation>
+        <translation>Enregistré par un simomètre personnel Raspberry Shake</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="165"/>
         <source>Map</source>
-        <translation type="unfinished">Carte</translation>
+        <translation>Carte</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="166"/>
         <source>Map type and components</source>
-        <translation type="unfinished">Types et éléments de carte</translation>
+        <translation>Type et éléments de la carte</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="173"/>
         <source>Location</source>
-        <translation type="unfinished">Position</translation>
+        <translation>Position</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="174"/>
         <source>How to obtain reference position</source>
-        <translation type="unfinished">Déterminer sa propre postition</translation>
+        <translation>Comment déterminer une postition de référence</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="181"/>
         <source>Notifications</source>
         <comment>Title for system notifications settings page</comment>
-        <translation type="unfinished">Avertissement</translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="183"/>
         <source>About new earthquakes</source>
-        <translation type="unfinished">Avertissement du système lors de nouveaux tremblements de terre.</translation>
+        <translation>Avertissement du système lors de nouveaux séismes</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="190"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="191"/>
         <source>The look and feel of this app</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>l&apos;aspect et l&apos;ergonomie de cette application (more formal)</translatorcomment>
+        <translation>Look et sensation de cette appli</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="198"/>
         <source>Units</source>
-        <translation type="unfinished">Unités</translation>
+        <translation>Unités</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="199"/>
         <source>Units of measurement</source>
-        <translation type="unfinished">Unités de mesure</translation>
+        <translation>Unités de mesure</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="206"/>
         <source>About EQInfo</source>
-        <translation type="unfinished">Informations</translation>
+        <translation>A propos d&apos;EQInfo</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="289"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Evènements</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="290"/>
         <source>connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecté</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="291"/>
         <source>connecting</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>connectant (en cours de connexion)</translatorcomment>
+        <translation>en cours de connexion</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="302"/>
         <source>Stations</source>
-        <translation type="unfinished"></translation>
+        <translation>Stations</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="312"/>
         <source>Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapports</translation>
     </message>
     <message>
         <location filename="../../app/view/Pages/PageSettings.qml" line="322"/>
         <source>Agencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Agences</translation>
     </message>
 </context>
 <context>
@@ -377,19 +380,19 @@
     <message>
         <location filename="../../app/view/Components/PoolDetails.qml" line="31"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Evènements</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/PoolDetails.qml" line="32"/>
         <source>up to date</source>
         <comment>some data is &apos;up to date&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>à jour</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/PoolDetails.qml" line="33"/>
         <source>not up to date</source>
         <comment>some data is &apos;not up to date&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>pas à jour</translation>
     </message>
 </context>
 <context>
@@ -398,13 +401,13 @@
         <location filename="../../app/view/Components/Popups/PopupConnectStation.qml" line="107"/>
         <source>Station is valid</source>
         <extracomment>The entered station ID could be found</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Station correct</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupConnectStation.qml" line="127"/>
         <source>Enter station ID</source>
         <extracomment>The user has to enter the station ID into a text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Entrer le nom de la station</translation>
     </message>
 </context>
 <context>
@@ -413,7 +416,7 @@
         <location filename="../../app/view/Components/Popups/PopupDate.qml" line="38"/>
         <source>Date of observation</source>
         <extracomment>For &apos;did you feel it&apos; - reports, when was the event observed</extracomment>
-        <translation type="unfinished">Date de l\&apos;observation</translation>
+        <translation>Date de l&apos;observation</translation>
     </message>
 </context>
 <context>
@@ -427,19 +430,20 @@
         <location filename="../../app/view/Components/Popups/PopupDialog.qml" line="219"/>
         <source>Cancel</source>
         <extracomment>For dialogs</extracomment>
-        <translation type="unfinished">Abandonner</translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupDialog.qml" line="234"/>
         <source>Ok</source>
         <extracomment>For dialogs</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupDialog.qml" line="248"/>
         <source>Done</source>
         <extracomment>For dialogs</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Terminé (accompli, fait)</translatorcomment>
+        <translation>Fait</translation>
     </message>
 </context>
 <context>
@@ -448,13 +452,13 @@
         <location filename="../../app/view/Components/Popups/PopupEventList.qml" line="31"/>
         <source>Select Event</source>
         <extracomment>User has to select an event from a list</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selectionner l&apos;évènement</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupEventList.qml" line="147"/>
         <source>No Event</source>
         <extracomment>If a list is empty</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pas d&apos;évènement</translation>
     </message>
 </context>
 <context>
@@ -463,17 +467,17 @@
         <location filename="../../app/view/Components/Popups/PopupFilter.qml" line="31"/>
         <source>Choose Filter</source>
         <extracomment>Title of the filter slection dialog</extracomment>
-        <translation type="unfinished">Choisir un filtre</translation>
+        <translation>Choisir un filtre</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupFilter.qml" line="59"/>
         <source>No filter has been defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de filtre défini</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupFilter.qml" line="63"/>
         <source>Add a new filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau filtre</translation>
     </message>
 </context>
 <context>
@@ -482,13 +486,13 @@
         <location filename="../../app/view/Components/Popups/PopupLocation.qml" line="44"/>
         <source>Location of observation</source>
         <extracomment>For &apos;did you feel it&apos; reports, where was the event observed</extracomment>
-        <translation type="unfinished">Position de l\&apos;observation</translation>
+        <translation>Position de l&apos;observation</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupLocation.qml" line="46"/>
         <source>Roughly center the location</source>
         <extracomment>On a map</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Centrer approximativement la position</translation>
     </message>
 </context>
 <context>
@@ -497,13 +501,13 @@
         <location filename="../../app/view/Components/Popups/PopupRegion.qml" line="49"/>
         <source>Region</source>
         <extracomment>Title for the dialog to select a region</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selectionner la région d&apos;intérêt</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Popups/PopupRegion.qml" line="51"/>
         <source>Select the region you are interested in</source>
         <extracomment>On a map</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la région qui vous intéresse</translation>
     </message>
 </context>
 <context>
@@ -512,7 +516,7 @@
         <location filename="../../app/view/Components/Popups/PopupSort.qml" line="32"/>
         <source>Sorting</source>
         <extracomment>Title of the dialog to select the sort order</extracomment>
-        <translation type="unfinished">Trier</translation>
+        <translation>Trier</translation>
     </message>
 </context>
 <context>
@@ -521,7 +525,7 @@
         <location filename="../../app/view/Components/Popups/PopupTime.qml" line="38"/>
         <source>Time of observation</source>
         <extracomment>For &apos;did you feel it&apos; reports, when was the event observed</extracomment>
-        <translation type="unfinished">Heure de l\&apos;observation</translation>
+        <translation>Heure de l&apos;observation</translation>
     </message>
 </context>
 <context>
@@ -530,31 +534,32 @@
         <location filename="../../app/utils/utils.cpp" line="814"/>
         <source>Update</source>
         <extracomment>Notification title</extracomment>
-        <translation type="unfinished">Actualisation</translation>
+        <translatorcomment>Actualisation (Actualiser)</translatorcomment>
+        <translation>Actualisation</translation>
     </message>
     <message>
         <location filename="../../app/utils/utils.cpp" line="816"/>
         <source>Error</source>
         <extracomment>Notification title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../app/utils/utils.cpp" line="818"/>
         <source>%1 new</source>
         <extracomment>Notification, number of new events</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 nouveau</translation>
     </message>
     <message>
         <location filename="../../app/utils/utils.cpp" line="820"/>
         <source>%1 new, %2 updated</source>
         <extracomment>Notification, number of new and updated events</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 nouveau, %2 mis à jour</translation>
     </message>
     <message>
         <location filename="../../app/utils/utils.cpp" line="822"/>
         <source>%1 updated</source>
         <extracomment>Notification, number of updated events</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 mis à jour</translation>
     </message>
 </context>
 <context>
@@ -563,25 +568,25 @@
         <location filename="../../app/view/Views/ReportDetailsEQI.qml" line="57"/>
         <source>Report Information</source>
         <extracomment>Title of section with details about a report</extracomment>
-        <translation type="unfinished">Information du rapport</translation>
+        <translation>Information du rapport</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/ReportDetailsEQI.qml" line="109"/>
         <source>no Report</source>
         <extracomment>If no report can be displayed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>pas de rapport</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/ReportDetailsEQI.qml" line="111"/>
         <source>Reported on %1</source>
         <extracomment>The date or dates of the report/s</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rapporté sur %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/ReportDetailsEQI.qml" line="171"/>
         <source>No associated event</source>
         <extracomment>If no event could be associated to a report</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pas d&apos;évènement associé</translation>
     </message>
 </context>
 <context>
@@ -590,19 +595,19 @@
         <location filename="../../app/view/Components/ReportItemEQI.qml" line="168"/>
         <source>No Report found</source>
         <extracomment>Displayed if a list of reports is empty</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pas de rapport trouvé</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/ReportItemEQI.qml" line="172"/>
         <source>Intensity %1</source>
         <extracomment>Intensity level of a report</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Intensité %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/ReportItemEQI.qml" line="174"/>
         <source>Intensities %1 - %2</source>
         <extracomment>Intensity levels of multiple reports range from %1 to %2</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Intensités %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -610,33 +615,34 @@
     <message>
         <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="34"/>
         <source>Earthquake solutions</source>
-        <translation type="unfinished">Sources de données</translation>
+        <translation>Sources de données</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="41"/>
         <source>Allow background activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser activité en arrière plan</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="42"/>
         <source>When the app is not running</source>
-        <translation type="unfinished"></translation>
+        <translation>Quand l&apos;appli ne tourne pas</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="239"/>
         <source>Load priority defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger les priorités par défaut</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="241"/>
         <source>For current locale %1</source>
         <extracomment>A locale like &apos;en_US&apos; or &apos;de_DE&apos; ...</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Pour localité actuelle (pour position actuelle)</translatorcomment>
+        <translation>Pour localité actuelle %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="251"/>
         <source>Agencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Agences</translation>
     </message>
 </context>
 <context>
@@ -644,44 +650,44 @@
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="33"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="37"/>
         <source>Theme</source>
         <extracomment>Application appearance theme, light or dark</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Thème</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="41"/>
         <source>Light Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème clair</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="49"/>
         <source>Dark Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème foncé</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="58"/>
         <source>System</source>
         <extracomment>The system theme setting</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Système</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="75"/>
         <source>Earthquake list style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style de liste de séisme</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="78"/>
         <source>Normal Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style normal</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewAppearance.qml" line="85"/>
         <source>Compact Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style compact</translation>
     </message>
 </context>
 <context>
@@ -689,41 +695,42 @@
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="35"/>
         <source>Edit Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer le filtre</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="57"/>
         <source>Name and activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Nommer et activer</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="71"/>
         <source>Filter name</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>(Filtrer par nom)</translatorcomment>
+        <translation>Nom du filtre</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="78"/>
         <source>Activate</source>
         <extracomment>On a toggle button to activate / deactivate a certain setting</extracomment>
-        <translation type="unfinished">Activer</translation>
+        <translation>Activer</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="87"/>
         <source>Parameters</source>
         <extracomment>The parameters of the filter settings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="91"/>
         <source>Magnitude</source>
-        <translation type="unfinished">Magnitude</translation>
+        <translation>Magnitude</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="94"/>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="123"/>
         <source> to </source>
         <extracomment>As in from 60 &apos;to&apos; 100</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> de </translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="104"/>
@@ -731,7 +738,7 @@
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="199"/>
         <source>min</source>
         <extracomment>Short for minimum</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="106"/>
@@ -739,88 +746,89 @@
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="201"/>
         <source>max</source>
         <extracomment>Short for maximum</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>max</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="121"/>
         <source>Depth</source>
         <extracomment>The depth below the surface (of an event)</extracomment>
-        <translation type="unfinished">Profondeur</translation>
+        <translation>Profondeur</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="150"/>
         <source>Time</source>
         <extracomment>Maybe also timespan</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Temps</translation>
     </message>
     <message numerus="yes">
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="154"/>
         <source>%n day(s) ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>il y a %n jour</numerusform>
+            <numerusform>il y a %n jours</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="156"/>
         <source>between %1 and %2 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>il y a %1 à %2  jours</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="177"/>
         <source> days</source>
         <extracomment>As in: &apos;7 days&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> jours</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="187"/>
         <source>Distance</source>
         <extracomment>Between two points on the map</extracomment>
-        <translation type="unfinished">Distance</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="189"/>
         <source>between %1 and %2 away</source>
         <extracomment>A certain distance away</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dsitant de %1 à %2</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="197"/>
         <source>Distance to your location</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance par rapport à votre position</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="215"/>
         <source>Region</source>
         <extracomment>Select a geographical region on a map</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Selectionner la région d&apos;intérêt</translatorcomment>
+        <translation>Région</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="224"/>
         <source>whole world</source>
         <extracomment>In the region selection</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Monde entier</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="242"/>
         <source>Delete</source>
         <extracomment>Button for deleting a filter</extracomment>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="249"/>
         <source>Delete this filter?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer ce filtre?</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="277"/>
         <source>Cancel</source>
-        <translation type="unfinished">Abandonner</translation>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="286"/>
         <source>Save</source>
-        <translation type="unfinished">Sauver</translation>
+        <translation>Sauver</translation>
     </message>
 </context>
 <context>
@@ -829,67 +837,67 @@
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="35"/>
         <source>Location</source>
         <extracomment>Title for the users location settings</extracomment>
-        <translation type="unfinished">Position</translation>
+        <translation>Position</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="41"/>
         <source>Automatic Updates</source>
-        <translation type="unfinished">Mises à jour automatiques</translation>
+        <translation>Mises à jour automatiques</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="52"/>
         <source>Current Position: </source>
-        <translation type="unfinished"></translation>
+        <translation>Position actuelle: </translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="58"/>
         <source>Default Values</source>
-        <translation type="unfinished">Manuel</translation>
+        <translation>Valeurs par défaut</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="61"/>
         <source>If automatic updates is switched off or not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Si les mis à jours automatiques sont éteintes ou pas disponibles</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="65"/>
         <source>Latitude</source>
-        <translation type="unfinished">Latitude</translation>
+        <translation>Latitude</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="72"/>
         <source>Longitude</source>
-        <translation type="unfinished">Longitude</translation>
+        <translation>Longitude</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="80"/>
         <source>Latitude [-90;90]</source>
-        <translation type="unfinished"></translation>
+        <translation>Latitude [-90;90]</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="81"/>
         <source>Default Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Latitude par défaut</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="97"/>
         <source>Longitude [-180;180]</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitude [-180;180]</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="98"/>
         <source>Default Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitude par défaut</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="114"/>
         <source>Choose on map</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir sur la carte</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewLocation.qml" line="125"/>
         <source>Default location</source>
-        <translation type="unfinished"></translation>
+        <translation>Position par défaut</translation>
     </message>
 </context>
 <context>
@@ -897,61 +905,61 @@
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="34"/>
         <source>Map Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Réglages carte</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="37"/>
         <source>Map type and components</source>
-        <translation type="unfinished">Types et éléments de carte</translation>
+        <translation>Type et éléments de la carte</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="40"/>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="87"/>
         <source>Map Type</source>
-        <translation type="unfinished">Type de carte</translation>
+        <translation>Type de carte</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="48"/>
         <source>Show grid</source>
         <extracomment>The lat/lon grid on the map</extracomment>
-        <translation type="unfinished">Grille de coordonnées</translation>
+        <translation>Grille de coordonnées</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="49"/>
         <source>Show the latitude/longitude coordinate grid</source>
-        <translation type="unfinished">Longitudes et latitudes</translation>
+        <translation>Longitudes et latitudes</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="57"/>
         <source>Show legend</source>
         <extracomment>Display a legend for earthquake symbols</extracomment>
-        <translation type="unfinished">Légende</translation>
+        <translation>Légende</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="58"/>
         <source>Display a legend for earthquake symbols</source>
-        <translation type="unfinished">Légende  de symboles de tremblement de terre</translation>
+        <translation>Légende de symboles de tremblement de terre</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="65"/>
         <source>Show location</source>
         <extracomment>Display the current geolocation</extracomment>
-        <translation type="unfinished">Position</translation>
+        <translation>Position</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="66"/>
         <source>Display the current geolocation</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiquer la géoposition actuelle</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="74"/>
         <source>Did you feel it - reports</source>
-        <translation type="unfinished">L\&apos;avez vous resenti - rapports</translation>
+        <translation>L&apos;avez vous resenti - rapports</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewMap.qml" line="77"/>
         <source>Show reports on map</source>
-        <translation type="unfinished">Montrer les rapports sur la carte</translation>
+        <translation>Montrer les rapports sur la carte</translation>
     </message>
 </context>
 <context>
@@ -960,48 +968,48 @@
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="34"/>
         <source>Notifications</source>
         <extracomment>Title for the settings page for system notifications</extracomment>
-        <translation type="unfinished">Avertissement</translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="39"/>
         <source>Activate</source>
         <extracomment>On a toggle button to activate / deactivate a certain setting</extracomment>
-        <translation type="unfinished">Activer</translation>
+        <translation>Activer</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="40"/>
         <source>System notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissements du système</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="51"/>
         <source>Updates</source>
-        <translation type="unfinished">Actualisations</translation>
+        <translation>Mises à jours</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="52"/>
         <source>Get notified about updated Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Etre informer sur les évènements réactualisés</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="58"/>
         <source>Errors</source>
-        <translation type="unfinished">Probléme de connexion</translation>
+        <translation>Problèmes de connexion (Erreurs)</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="59"/>
         <source>Get notified about connection errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Etre informer sur les erreurs de connexion</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="68"/>
         <source>Use current filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser le filtre actuel</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="84"/>
         <source>Or use custom filters for notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ou utiliser des avertissements personalisés</translation>
     </message>
 </context>
 <context>
@@ -1009,73 +1017,74 @@
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="38"/>
         <source>Raspberry Shake - Your personal seismograph</source>
-        <translation type="unfinished">Raspberry Shake - Votre Sismomètre personnel</translation>
+        <translatorcomment>Raspberry Shake - Votre Sismomètre personnel (personalisé)</translatorcomment>
+        <translation>Raspberry Shake - Votre Sismomètre personnel</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="41"/>
         <source>Join the Raspberry Shake Community!</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejoignez la communauté Raspberry Shake!</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="42"/>
         <source>Improve your local earthquake detections with your very own personal seismograph. Redeem a 10% discount at shop.raspberryshake.org using the discount code eqinfo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Améliorez vos détections de tremblements de terre locaux avec votre sismographe personnel. Bénéficiez d&apos;une réduction de 10% sur shop.raspberryshake.org en utilisant le code de réduction eqinfo.</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="35"/>
         <source>Seismic Data</source>
         <extracomment>Title for the settings section</extracomment>
-        <translation type="unfinished">Donnée sismiques</translation>
+        <translation>Données sismiques</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="53"/>
         <source>Show</source>
         <extracomment>On a toggle button to either &apos;show&apos; something or not</extracomment>
-        <translation type="unfinished">Voir</translation>
+        <translation>Voir</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="54"/>
         <source>Seismic trace in event details</source>
-        <translation type="unfinished"></translation>
+        <translation>Trace sismique dans les détails de l&apos;événement</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="62"/>
         <source>Use my own Raspberry Shake</source>
-        <translation type="unfinished">Utiliser mon Raspberry Shake</translation>
+        <translation>Utiliser mon Raspberry Shake</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="63"/>
         <source>Otherwise the Raspberry Shake closest to the event will be displayed</source>
-        <translation type="unfinished">Ou le Raspberry Shake le plus proche de d\&apos;évenement sera affiché</translation>
+        <translation>Ou le Raspberry Shake le plus proche de d\&apos;évenement sera affiché</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="70"/>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="87"/>
         <source>Your Raspberry Shake ID</source>
-        <translation type="unfinished">Votre ID Raspberry Shake</translation>
+        <translation>Votre identifiant Raspberry Shake</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="78"/>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="157"/>
         <source>Select the channel to be displayed</source>
-        <translation type="unfinished">Selectionner le cannal à afficher</translation>
+        <translation>Selectionner le canal à afficher</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="117"/>
         <source>Enter station ID</source>
         <extracomment>In a text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Entrer le nom de la station</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="145"/>
         <source>Find closest Raspberry Shake</source>
         <extracomment>In closest proximity to the user</extracomment>
-        <translation type="unfinished">Trouver la secousse la plus proche</translation>
+        <translation>rouver la secousse Raspberry la plus proche</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewSeismicData.qml" line="187"/>
         <source>Stations</source>
-        <translation type="unfinished"></translation>
+        <translation>Stations</translation>
     </message>
 </context>
 <context>
@@ -1084,37 +1093,37 @@
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="33"/>
         <source>Units</source>
         <extracomment>Title for the settings section to configure units</extracomment>
-        <translation type="unfinished">Unités</translation>
+        <translation>Unités</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="37"/>
         <source>Distances</source>
         <extracomment>Title for the unit settings for distances</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Distances</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="40"/>
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="67"/>
         <source>kilometers / meters</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilomètres / mètres</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="47"/>
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="74"/>
         <source>miles / feet</source>
-        <translation type="unfinished"></translation>
+        <translation>milles / pieds</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="55"/>
         <source>degrees</source>
         <extracomment>As a unit for measuring distance</extracomment>
-        <translation type="unfinished">degrés</translation>
+        <translation>degrés</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/SettingsViewUnits.qml" line="64"/>
         <source>Depth</source>
         <extracomment>The depth below the surface (of an event)</extracomment>
-        <translation type="unfinished">Profondeur</translation>
+        <translation>Profondeur</translation>
     </message>
 </context>
 <context>
@@ -1122,18 +1131,18 @@
     <message>
         <location filename="../../app/view/Components/Spectrogram.qml" line="173"/>
         <source>Frequency in Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Fréquence en Hz</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Spectrogram.qml" line="316"/>
         <source>Log-Scale</source>
         <extracomment>Logarithmic scale for the spectrogram</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échelle logarithmique</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Spectrogram.qml" line="380"/>
         <source>Color Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient de couleur</translation>
     </message>
 </context>
 <context>
@@ -1142,12 +1151,12 @@
         <location filename="../../app/view/Views/StationDetailsEQI.qml" line="47"/>
         <source>Station Information</source>
         <extracomment>Title for a section that shows information about a station</extracomment>
-        <translation type="unfinished">Information sur la station</translation>
+        <translation>Information sur la station</translation>
     </message>
     <message>
         <location filename="../../app/view/Views/StationDetailsEQI.qml" line="94"/>
         <source>Raspberry Shake Station</source>
-        <translation type="unfinished"></translation>
+        <translation>Station Rapsberry Shake</translation>
     </message>
 </context>
 <context>
@@ -1155,19 +1164,19 @@
     <message>
         <location filename="../../app/view/Components/StationItemEQI.qml" line="125"/>
         <source>No Station configured</source>
-        <translation type="unfinished"></translation>
+        <translation>Station non configurée</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/StationItemEQI.qml" line="180"/>
         <source>Traveltime: +%1</source>
         <extracomment>&apos;Traveltime: +23s&apos; Of the P-Waves to the location of the station</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Temps de trajet: +%1</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/StationItemEQI.qml" line="203"/>
         <source>Channels: </source>
         <extracomment>The channels supported by the raspberry shake station</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Canaux: </translation>
     </message>
 </context>
 <context>
@@ -1175,196 +1184,197 @@
     <message>
         <location filename="../../app/view/Strings.qml" line="32"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version: %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="35"/>
         <source>developed by gempa GmbH.&lt;br/&gt;&lt;br/&gt;Gempa offers you a range of services and products to monitor and analyze geodynamic activity. Please visit %1 for further information!</source>
-        <translation type="unfinished"></translation>
+        <translation>développé par gempa GmbH.&lt;br/&gt;&lt;br/&gt;Gempa vous propose une gamme de services et de produits pour surveiller et analyser l&apos;activité géodynamique. Veuillez visiter le site %1 pour plus d&apos;informations !</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="36"/>
         <source>https://www.gempa.de</source>
-        <translation type="unfinished"></translation>
+        <translation>https://www.gempa.de</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="39"/>
         <source>We have an open beta test for upcoming EQInfo releases. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous avons un test bêta ouvert pour les prochaines versions d&apos;EQInfo. %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="41"/>
         <source>Get involved and share your opinion!</source>
-        <translation type="unfinished">Impliquez vous et donnez votre opinion!</translation>
+        <translation>Participez et partagez votre opinion!</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="43"/>
         <source>#Earthquake #EQInfo #gempa</source>
-        <translation type="unfinished"></translation>
+        <translation>#Earthquake #EQInfo #gempa</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="45"/>
         <source>New in version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau dans la version %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="46"/>
         <source>
  Bugfixes and performace improvements</source>
-        <translation type="unfinished"></translation>
+        <translation>
+ Corrections de bugs et améliorations des performances</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="48"/>
         <source>No other information will be sent or saved. This data is only used for analytical purposes by gempa GmbH and will not be distributed to third parties.</source>
-        <translation type="unfinished">Aucune autre information ne sera envoyée ou sauvegardée. Ces données sont seulement utilisée à des fins d\&apos;analyse par gempa GmbH et ne seront pas redistribuées à une tierce partie.</translation>
+        <translation>Aucune autre information ne sera envoyée ou sauvegardée. Ces données sont seulement utilisée à des fins d\&apos;analyse par gempa GmbH et ne seront pas redistribuées à une tierce partie.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="50"/>
         <source>Finally send this report?&lt;br/&gt;You wont be able to edit it afterwards.</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalement envoyer ce rapport?&lt;br/&gt;Vous ne pourrez pas le modifier par la suite.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="52"/>
         <source>Error while sending report.&lt;br/&gt;%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de l&apos;envoi du rapport.&lt;br/&gt;%1</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="54"/>
         <source>You will be notified about events according to your current filter settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous serez informé des événements en fonction de vos paramètres de filtrage actuels.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="57"/>
         <source>Do you own a Raspberry Shake Seismograph?</source>
-        <translation type="unfinished"></translation>
+        <translation>Possédez-vous un sismographe Raspberry Shake ?</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="59"/>
         <source>Feel free to enter your personal Raspberry Shake ID below. Don&apos;t have a station, yet? %1</source>
-        <translation type="unfinished"></translation>
+        <translation>N&apos;hésitez pas à entrer votre identifiant personnel Raspberry Shake ci-dessous. Vous n&apos;avez pas encore de station ? %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="61"/>
         <source>Check out our shop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitez notre boutique !</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="63"/>
         <source>Please visit %1 for more information!</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitez %1 pour plus d&apos;informations !</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="65"/>
         <source>raspberryshake.org</source>
-        <translation type="unfinished"></translation>
+        <translation>raspberryshake.org</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="67"/>
         <source>No event found</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun événement trouvé</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="68"/>
         <source>%1 Earthquakes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Séismes</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="76"/>
         <source>Gempa</source>
         <extracomment>Map type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gempa</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="78"/>
         <source>Terrain</source>
         <extracomment>Map type</extracomment>
-        <translation type="unfinished">Terrain</translation>
+        <translation>Terrain</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="80"/>
         <source>Satellite</source>
         <extracomment>Map type</extracomment>
-        <translation type="unfinished">Satellite</translation>
+        <translation>Satellite</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="82"/>
         <source>Hybrid</source>
         <extracomment>Map type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hybride</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="94"/>
         <source>Date</source>
         <extracomment>Option for sorting</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="96"/>
         <source>Distance</source>
         <extracomment>Option for sorting</extracomment>
-        <translation type="unfinished">Distance</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="98"/>
         <source>Magnitude</source>
         <extracomment>Option for sorting</extracomment>
-        <translation type="unfinished">Magnitude</translation>
+        <translation>Magnitude</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="100"/>
         <source>Relevance</source>
         <extracomment>Option for sorting</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pertinence</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="123"/>
         <source>Felt only by a few persons at rest, especially on upper floors of buildings.</source>
-        <translation type="unfinished">Ressenti seulement par quelques personnes au repos, en particulier dans les étages supérieurs des batiments.</translation>
+        <translation>Ressenti seulement par quelques personnes au repos, en particulier dans les étages supérieurs des batiments.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="124"/>
         <source>Felt quite noticeably by persons indoors, especially on upper floors of buildings. Many people do not recognize it as an earthquake. Standing motor cars may rock slightly. Vibrations similar to the passing of a truck.</source>
-        <translation type="unfinished">Ressenti notablement par les gens en intérieurs, en particulier dans les étages supérieurs des batiments. Peu de gens le reconnaissent comme un tremblement de terre. Les véhicules à l\&apos;arret peuvent bouger légerement. Vibrations resemblant au passage d\&apos;un camion.</translation>
+        <translation>Ressenti notablement par les gens en intérieurs, en particulier dans les étages supérieurs des batiments. Peu de gens le reconnaissent comme un tremblement de terre. Les véhicules à l\&apos;arret peuvent bouger légerement. Vibrations resemblant au passage d\&apos;un camion.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="125"/>
         <source>Felt indoors by many, outdoors by few during the day. At night, some awoke. Dishes, windows, doors disturbed. Walls make cracking sound. Sensation like heavy truck striking building. Standing motor cars rocked noticeably.</source>
-        <translation type="unfinished">Ressenti a l\&apos;intérieur par beaucoup de gens, à l\&apos;exterieurs par moins de personne durant la journée. La nuit, certain se réveillent. Les plats, les fenêtres et les portes bougent. Les murs émettent des bruits de fissuration. Ressenti tel un camion lourd qui percute un batiment. Les véhicules à moteur bougent notablement.</translation>
+        <translation>Ressenti a l\&apos;intérieur par beaucoup de gens, à l\&apos;exterieurs par moins de personne durant la journée. La nuit, certain se réveillent. Les plats, les fenêtres et les portes bougent. Les murs émettent des bruits de fissuration. Ressenti tel un camion lourd qui percute un batiment. Les véhicules à moteur bougent notablement.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="126"/>
         <source>Felt by nearly everyone. Many awoke. Some dishes, windows broken. Unstable objects overturned. Pendulum clocks may stop.</source>
-        <translation type="unfinished">Ressenti par presque tout le monde. Beaucoup de gens se reveillent. Des plats, des fenêtres se brisent. Les objets en équilibre tombent. Les horloges à pendule peuvent se stopper.</translation>
+        <translation>Ressenti par presque tout le monde. Beaucoup de gens se reveillent. Des plats, des fenêtres se brisent. Les objets en équilibre tombent. Les horloges à pendule peuvent se stopper.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="127"/>
         <source>Felt by all, many frightened. Some heavy furniture moved. A few instances of fallen plaster. Damage slight.</source>
-        <translation type="unfinished">Ressenti par tous, beaucoup de gens appeurés. Du mobilier lourd s\&apos;est déplacé. Des platrats tombent. Léger dommage.</translation>
+        <translation>Ressenti par tous, beaucoup de gens appeurés. Du mobilier lourd s\&apos;est déplacé. Des platrats tombent. Léger dommage.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="128"/>
         <source>Damage negligible in buildings of good design and construction. Slight to moderate in well-built ordinary structures. Considerable damage in poorly built or badly designed structures. Some chimneys broken.</source>
-        <translation type="unfinished">Dommage négligeable dans les batiments de bonne facture et construction. Léger à modéré dans les batiments au structures classiques. Dommages considerable dans les constructions fragiles ou mal construites. Des cheminées s\&apos;éffondrent.</translation>
+        <translation>Dommage négligeable dans les batiments de bonne facture et construction. Léger à modéré dans les batiments au structures classiques. Dommages considerables dans les constructions fragiles ou mal construites. Des cheminées s\&apos;éffondrent.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="129"/>
         <source>Slight damage in specially designed structures. Considerable damage in ordinary substantial buildings with partial collapse. Damage great in poorly built structures. Fall of chimneys, factory stacks, columns, monuments, walls. Heavy furniture overturned.</source>
-        <translation type="unfinished">Dommages légers dans les structures spécialement étudiées. Dommages considerable dans les batiments ordinaires avec éffondrements partiels. Grand dommages dans les structures fragiles. Effondrement de cheminéés, cheminées industrielles, colonnes, monuments, murs. Mobilier lourd renversé.</translation>
+        <translation>Dommages légers dans les structures spécialement étudiées. Dommages considerables dans les batiments ordinaires avec éffondrements partiels. Grand dommages dans les structures fragiles. Effondrement de cheminéés, cheminées industrielles, colonnes, monuments, murs. Mobilier lourd renversé.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="130"/>
         <source>Damage considerable in specially designed structures. Well-designed frame structures thrown out of plumb. Damage great in substantial buildings, with partial collapse. Buildings shifted off foundations.</source>
-        <translation type="unfinished">Dommages considérable dans les structures spécialement conçues. Les structures bien conçues penchent. Grand dommages dans la plupart des batiments, avec éffondrements partiels. Batiments hors de leurs fondations.</translation>
+        <translation>Dommages considérables dans les structures spécialement conçues. Les structures bien conçues penchent. Grand dommages dans la plupart des batiments, avec éffondrements partiels. Batiments hors de leurs fondations.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="131"/>
         <source>Some well-built wooden structures destroyed. Most masonry and frame structures destroyed with foundations. Rails bent.</source>
-        <translation type="unfinished">Des structures en bois bien conçues sont détruite. La plupart des structures maçonnées sont détruite avec leur fondations. Les rails sont tordus.</translation>
+        <translation>Des structures en bois bien conçues sont détruites. La plupart des structures maçonnées sont détruites avec leur fondations. Les rails sont tordus.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="132"/>
         <source>Not felt except by very few persons under especially favorable conditions.</source>
-        <translation type="unfinished">Non ressenti à l\&apos;exception de quelques personnes dans des conditions favorables.</translation>
+        <translation>Non ressenti à l\&apos;exception de quelques personnes dans des conditions favorables.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="144"/>
@@ -1376,13 +1386,13 @@
         <location filename="../../app/view/Strings.qml" line="146"/>
         <source>EQInfo shows earthquake information world-wide. Information can be filtered by region, magnitude and agency. It provides system notifications and social media sharing options.</source>
         <extracomment>AppStore full description paragraph 1</extracomment>
-        <translation>Des informations mondiales de tremblements de terre - Différentes sources, de nombreux filtres, aucune publicité, carte interactive, avertissements, distances du tremblement de terre par rapport à sa propre position, faible volume de données, beaucoup de possibilités de réglages... </translation>
+        <translation>Des informations mondiales de tremblements de terre - Différentes sources, de nombreux filtres, aucune publicité, carte interactive, avertissements, distances du tremblement de terre par rapport à sa propre position, faible volume de données, beaucoup de possibilités de réglages.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="148"/>
         <source>EQInfo was conceived and implemented by the expert developers of SeisComP3, http://www.gempa.de, a software platform used by most geophysical institutes in the world to automatically detect and locate earthquakes.</source>
         <extracomment>AppStore full description paragraph 2</extracomment>
-        <translation>gempa (Global Earthquake Monitoring Processing Analysis) GmbH, Potsdam, Allemagne, une Spin-off du Centre de recherche geologique (GFZ GeoForschungsZentrum) vous présente l&apos;application Android EQInfo: EQInfo vous permet, au travers de votre appareil Android, d&apos;avoir accès aux informations les plus récentes sur des tremblements de terre et vous propose les fonctions suivantes:</translation>
+        <translation>gempa (Global Earthquake Monitoring Processing Analysis) GmbH, Potsdam, Allemagne, une Spin-off du Centre de recherche geologique (GFZ GeoForschungsZentrum) vous présente l&apos;application Android EQInfo.</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="150"/>
@@ -1400,7 +1410,7 @@
         <location filename="../../app/view/Strings.qml" line="154"/>
         <source>The following features are supported:</source>
         <extracomment>AppStore full description features</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>EQInfo vous permet, au travers de votre appareil Android, d&apos;avoir accès aux informations les plus récentes sur des tremblements de terre et vous propose les fonctions suivantes:</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="156"/>
@@ -1802,19 +1812,19 @@ Agencies AUTH - regions</extracomment>
         <location filename="../../app/view/Components/Trace.qml" line="211"/>
         <source>Amplitude</source>
         <extracomment>On the trace chart</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Amplitude</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Trace.qml" line="439"/>
         <source>Connection Timeout</source>
         <extracomment>As an error when fetching the trace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Délai de connexion</translation>
     </message>
     <message>
         <location filename="../../app/view/Components/Trace.qml" line="479"/>
         <source> UTC </source>
         <extracomment>Universal Time Code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> UTC </translation>
     </message>
 </context>
 <context>
@@ -1823,7 +1833,7 @@ Agencies AUTH - regions</extracomment>
         <location filename="../../app/view/Components/TraceOptions.qml" line="247"/>
         <source>Frequency</source>
         <extracomment>For a frequenzy filter</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fréquence</translation>
     </message>
 </context>
 <context>
@@ -1832,15 +1842,15 @@ Agencies AUTH - regions</extracomment>
         <location filename="../../app/view/Utils.qml" line="185"/>
         <source>Elevation: %1</source>
         <extracomment>Elevation above sea level eg. &apos;Elevation: 23km&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Élévation : %1</translation>
     </message>
     <message numerus="yes">
         <location filename="../../app/view/Utils.qml" line="273"/>
         <source>%n minutes ago</source>
         <extracomment>Relative time</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Il y a %n minute</numerusform>
+            <numerusform>Il y a %n minutes</numerusform>
         </translation>
     </message>
     <message>
@@ -1848,19 +1858,19 @@ Agencies AUTH - regions</extracomment>
         <location filename="../../app/view/Utils.qml" line="344"/>
         <source>Today, %1</source>
         <extracomment>&apos;Today, 15:33&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aujourd&apos;hui, %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Utils.qml" line="285"/>
         <location filename="../../app/view/Utils.qml" line="345"/>
         <source>Yesterday, %1</source>
         <extracomment>&apos;Yesterday, 15:31&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hier, %1</translation>
     </message>
     <message>
         <location filename="../../app/view/Utils.qml" line="421"/>
         <source> unfiltered </source>
-        <translation type="unfinished"></translation>
+        <translation> non filtré </translation>
     </message>
 </context>
 <context>
@@ -1869,25 +1879,25 @@ Agencies AUTH - regions</extracomment>
         <location filename="../../app/view/main.qml" line="234"/>
         <source>Earthquake List</source>
         <extracomment>Title for event list menu button</extracomment>
-        <translation type="unfinished">Liste des Seismes</translation>
+        <translation>Liste des Seismes</translation>
     </message>
     <message>
         <location filename="../../app/view/main.qml" line="244"/>
         <source>Map View</source>
         <extracomment>Title for map menu button</extracomment>
-        <translation type="unfinished">Carte</translation>
+        <translation>Carte</translation>
     </message>
     <message>
         <location filename="../../app/view/main.qml" line="253"/>
         <source>Felt a quake</source>
         <extracomment>Title for &apos;did you feel it&apos; menu button</extracomment>
-        <translation type="unfinished">Secousse ressentie</translation>
+        <translation>Secousse ressentie</translation>
     </message>
     <message>
         <location filename="../../app/view/main.qml" line="262"/>
         <source>Settings</source>
         <extracomment>Title for settings menu button</extracomment>
-        <translation type="unfinished">Réglages</translation>
+        <translation>Réglages</translation>
     </message>
 </context>
 </TS>
