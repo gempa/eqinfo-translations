@@ -9,7 +9,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewFirst.qml" line="160"/>
+        <location filename="../../app/view/Views/DyfiViewFirst.qml" line="156"/>
         <source>I felt this</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17,49 +17,49 @@
 <context>
     <name>DyfiViewSecond</name>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="80"/>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="106"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="79"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="105"/>
         <source>Sending Report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="161"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="160"/>
         <source>Intensity Level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="182"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="181"/>
         <source>Associated Earthquake (optional)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="193"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="192"/>
         <source>Click to select one in your vicinity!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="224"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="223"/>
         <source>Location of observation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="247"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="246"/>
         <source>Date of observation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="270"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="269"/>
         <source>Time of observation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="319"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="318"/>
         <source>Cancel</source>
         <extracomment>For a dialog</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="333"/>
+        <location filename="../../app/view/Views/DyfiViewSecond.qml" line="332"/>
         <source>Send</source>
         <extracomment>Send a &apos;did you feel it&apos; report</extracomment>
         <translation type="unfinished"></translation>
@@ -144,7 +144,7 @@
 <context>
     <name>OverviewMapEQI</name>
     <message>
-        <location filename="../../app/view/Components/OverviewMapEQI.qml" line="262"/>
+        <location filename="../../app/view/Components/OverviewMapEQI.qml" line="263"/>
         <source>Distance</source>
         <extracomment>Between two points on the map</extracomment>
         <translation type="unfinished"></translation>
@@ -176,18 +176,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageConnectStation.qml" line="177"/>
+        <location filename="../../app/view/Pages/PageConnectStation.qml" line="176"/>
         <source>Save</source>
         <extracomment>&apos;Save&apos; some settings</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageConnectStation.qml" line="189"/>
+        <location filename="../../app/view/Pages/PageConnectStation.qml" line="188"/>
         <source>Don&apos;t have a station, yet?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageConnectStation.qml" line="199"/>
+        <location filename="../../app/view/Pages/PageConnectStation.qml" line="198"/>
         <source>Check Out Our Shop</source>
         <translation type="unfinished"></translation>
     </message>
@@ -195,31 +195,31 @@
 <context>
     <name>PageEventList</name>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="214"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="204"/>
         <source>Magnitude %1+</source>
         <extracomment>Above a certain magnitude</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="217"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="207"/>
         <source>%1 away</source>
         <extracomment>A certain distance away eg. &apos;20km away&apos;</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="221"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="211"/>
         <source>Ground motion below %1 m/s</source>
         <extracomment>&apos;below&apos; a certain value</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="241"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="231"/>
         <source>%1 Earthquakes total</source>
         <extracomment>eg. &apos;200 Earthquakes total&apos;</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="243"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="233"/>
         <source>%1 in current filter</source>
         <extracomment>A certain number of events that are currently displayed, because of the filter settings</extracomment>
         <translation type="unfinished"></translation>
@@ -236,7 +236,7 @@
 <context>
     <name>PageMap</name>
     <message>
-        <location filename="../../app/view/Pages/PageMap.qml" line="196"/>
+        <location filename="../../app/view/Pages/PageMap.qml" line="193"/>
         <source>Depth color</source>
         <extracomment>Title for the map legend, showing the colors for certain event depths</extracomment>
         <translation type="unfinished"></translation>
@@ -446,7 +446,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Popups/PopupEventList.qml" line="147"/>
+        <location filename="../../app/view/Components/Popups/PopupEventList.qml" line="148"/>
         <source>No Event</source>
         <extracomment>If a list is empty</extracomment>
         <translation type="unfinished"></translation>
@@ -517,33 +517,57 @@
 <context>
     <name>RS::NotifyUtils</name>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="845"/>
-        <source>Update</source>
+        <location filename="../../app/utils/utils.cpp" line="795"/>
+        <source>Updates</source>
         <extracomment>Notification title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="847"/>
+        <location filename="../../app/utils/utils.cpp" line="797"/>
         <source>Error</source>
         <extracomment>Notification title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="849"/>
+        <location filename="../../app/utils/utils.cpp" line="799"/>
         <source>%1 new</source>
         <extracomment>Notification, number of new events</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="851"/>
+        <location filename="../../app/utils/utils.cpp" line="801"/>
         <source>%1 new, %2 updated</source>
         <extracomment>Notification, number of new and updated events</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="853"/>
+        <location filename="../../app/utils/utils.cpp" line="803"/>
         <source>%1 updated</source>
         <extracomment>Notification, number of updated events</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/utils/utils.cpp" line="805"/>
+        <source>Earthquakes and Updates</source>
+        <extracomment>Name of notification channel for events and updates</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/utils/utils.cpp" line="807"/>
+        <source>Background Service</source>
+        <extracomment>Name of notification channel for the background service</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/utils/utils.cpp" line="809"/>
+        <source>Running in background</source>
+        <extracomment>Title of notification channel for background service</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/utils/utils.cpp" line="811"/>
+        <source>Errors</source>
+        <extracomment>Name of notification channel for the errors</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -568,7 +592,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/ReportDetailsEQI.qml" line="171"/>
+        <location filename="../../app/view/Views/ReportDetailsEQI.qml" line="174"/>
         <source>No associated event</source>
         <extracomment>If no event could be associated to a report</extracomment>
         <translation type="unfinished"></translation>
@@ -703,69 +727,69 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="57"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="63"/>
         <source>Name and activate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="71"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="77"/>
         <source>Filter name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="78"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="84"/>
         <source>Activate</source>
         <extracomment>On a toggle button to activate / deactivate a certain setting</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="87"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="93"/>
         <source>Parameters</source>
         <extracomment>The parameters of the filter settings</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="91"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="97"/>
         <source>Magnitude</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="94"/>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="123"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="100"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="129"/>
         <source> to </source>
         <extracomment>As in from 60 &apos;to&apos; 100</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="104"/>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="134"/>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="199"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="110"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="140"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="205"/>
         <source>min</source>
         <extracomment>Short for minimum</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="106"/>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="132"/>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="201"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="112"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="138"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="207"/>
         <source>max</source>
         <extracomment>Short for maximum</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="121"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="127"/>
         <source>Depth</source>
         <extracomment>The depth below the surface (of an event)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="150"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="156"/>
         <source>Time</source>
         <extracomment>Maybe also timespan</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="154"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="160"/>
         <source>%n day(s) ago</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -773,63 +797,63 @@
         </translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="156"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="162"/>
         <source>between %1 and %2 days ago</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="177"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="183"/>
         <source> days</source>
         <extracomment>As in: &apos;7 days&apos;</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="187"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="193"/>
         <source>Distance</source>
         <extracomment>Between two points on the map</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="189"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="195"/>
         <source>between %1 and %2 away</source>
         <extracomment>A certain distance away</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="197"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="203"/>
         <source>Distance to your location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="215"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="221"/>
         <source>Region</source>
         <extracomment>Select a geographical region on a map</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="224"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="230"/>
         <source>whole world</source>
         <extracomment>In the region selection</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="242"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="248"/>
         <source>Delete</source>
         <extracomment>Button for deleting a filter</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="249"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="255"/>
         <source>Delete this filter?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="277"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="283"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="286"/>
+        <location filename="../../app/view/Views/SettingsViewEditFilter.qml" line="292"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1010,7 +1034,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="85"/>
+        <location filename="../../app/view/Views/SettingsViewNotifications.qml" line="84"/>
         <source>Or use custom filters for notifications</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1131,24 +1155,34 @@
 <context>
     <name>Spectrogram</name>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="173"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="169"/>
         <source>Frequency in Hz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="323"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="320"/>
         <source>Log-Scale</source>
         <extracomment>Logarithmic scale for the spectrogram</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="392"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="390"/>
         <source>Color Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="413"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="412"/>
         <source>WindowLength</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="422"/>
+        <source>Overlap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="432"/>
+        <source>TaperWidth</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1903,25 +1937,25 @@ Agencies AUTH - regions</extracomment>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../app/view/main.qml" line="234"/>
+        <location filename="../../app/view/main.qml" line="235"/>
         <source>Earthquake List</source>
         <extracomment>Title for event list menu button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/main.qml" line="244"/>
+        <location filename="../../app/view/main.qml" line="245"/>
         <source>Map View</source>
         <extracomment>Title for map menu button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/main.qml" line="253"/>
+        <location filename="../../app/view/main.qml" line="254"/>
         <source>Felt a quake</source>
         <extracomment>Title for &apos;did you feel it&apos; menu button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/main.qml" line="262"/>
+        <location filename="../../app/view/main.qml" line="263"/>
         <source>Settings</source>
         <extracomment>Title for settings menu button</extracomment>
         <translation type="unfinished"></translation>
