@@ -195,31 +195,31 @@
 <context>
     <name>PageEventList</name>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="204"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="233"/>
         <source>Magnitude %1+</source>
         <extracomment>Above a certain magnitude</extracomment>
         <translation>القوة %1+</translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="207"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="236"/>
         <source>%1 away</source>
         <extracomment>A certain distance away eg. &apos;20km away&apos;</extracomment>
         <translation>البعد %1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="211"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="240"/>
         <source>Ground motion below %1 m/s</source>
         <extracomment>&apos;below&apos; a certain value</extracomment>
         <translation>حركة الأرض أقل من %1 م/ث</translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="231"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="260"/>
         <source>%1 Earthquakes total</source>
         <extracomment>eg. &apos;200 Earthquakes total&apos;</extracomment>
         <translation>مجموع الزلازل %1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Pages/PageEventList.qml" line="233"/>
+        <location filename="../../app/view/Pages/PageEventList.qml" line="262"/>
         <source>%1 in current filter</source>
         <extracomment>A certain number of events that are currently displayed, because of the filter settings</extracomment>
         <translation>%1 زلزال في المرشح الحالي</translation>
@@ -517,55 +517,55 @@
 <context>
     <name>RS::NotifyUtils</name>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="795"/>
+        <location filename="../../app/utils/utils.cpp" line="834"/>
         <source>Updates</source>
         <extracomment>Notification title</extracomment>
         <translation>تحديثات</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="797"/>
+        <location filename="../../app/utils/utils.cpp" line="836"/>
         <source>Error</source>
         <extracomment>Notification title</extracomment>
         <translation>خطأ</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="799"/>
+        <location filename="../../app/utils/utils.cpp" line="838"/>
         <source>%1 new</source>
         <extracomment>Notification, number of new events</extracomment>
         <translation>%1 جديد</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="801"/>
+        <location filename="../../app/utils/utils.cpp" line="840"/>
         <source>%1 new, %2 updated</source>
         <extracomment>Notification, number of new and updated events</extracomment>
         <translation>%1 جديد، %2 مُحدث</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="803"/>
+        <location filename="../../app/utils/utils.cpp" line="842"/>
         <source>%1 updated</source>
         <extracomment>Notification, number of updated events</extracomment>
         <translation>%1 جديد</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="805"/>
+        <location filename="../../app/utils/utils.cpp" line="844"/>
         <source>Earthquakes and Updates</source>
         <extracomment>Name of notification channel for events and updates</extracomment>
         <translation>الزلازل والتحديثات</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="807"/>
+        <location filename="../../app/utils/utils.cpp" line="846"/>
         <source>Background Service</source>
         <extracomment>Name of notification channel for the background service</extracomment>
         <translation>خدمة الخلفية</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="809"/>
+        <location filename="../../app/utils/utils.cpp" line="848"/>
         <source>Running in background</source>
         <extracomment>Title of notification channel for background service</extracomment>
         <translation>يعمل في الخلفية</translation>
     </message>
     <message>
-        <location filename="../../app/utils/utils.cpp" line="811"/>
+        <location filename="../../app/utils/utils.cpp" line="850"/>
         <source>Errors</source>
         <extracomment>Name of notification channel for the errors</extracomment>
         <translation>الأخطاء</translation>
@@ -627,49 +627,39 @@
         <translation>حلول الزلزال</translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="40"/>
-        <source>Allow background activity</source>
-        <translation>السماح بالعمل في الخلفية</translation>
-    </message>
-    <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="41"/>
-        <source>When the app is not running</source>
-        <translation>عندما لا يكون التطبيق قيد التشغيل</translation>
-    </message>
-    <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="243"/>
+        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="250"/>
         <source>Activate
 %1</source>
         <translation>تفعيل %1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="264"/>
+        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="271"/>
         <source>Highest priority</source>
         <translation>الأولوية القصوى</translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="276"/>
+        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="283"/>
         <source>Lowest priority</source>
         <translation>أدنى أولوية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="289"/>
+        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="296"/>
         <source>Deactivate</source>
         <translation>تعطيل</translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="332"/>
+        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="339"/>
         <source>Load priority defaults</source>
         <translation>تحميل افتراضيات الأولوية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="334"/>
+        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="341"/>
         <source>For current locale %1</source>
         <extracomment>A locale like &apos;en_US&apos; or &apos;de_DE&apos; ...</extracomment>
         <translation>للغة الحالية %1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="344"/>
+        <location filename="../../app/view/Views/SettingsViewAgencies.qml" line="351"/>
         <source>Agencies</source>
         <translation>الوكالات</translation>
     </message>
@@ -1164,28 +1154,28 @@
         <translation>التردد بالهرتز</translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="320"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="329"/>
         <source>Log-Scale</source>
         <extracomment>Logarithmic scale for the spectrogram</extracomment>
         <translation>مقياس لوغاريثمي</translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="390"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="399"/>
         <source>Color Gradient</source>
         <translation>تدرج الألوان</translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="412"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="421"/>
         <source>WindowLength</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="422"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="431"/>
         <source>Overlap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Spectrogram.qml" line="432"/>
+        <location filename="../../app/view/Components/Spectrogram.qml" line="441"/>
         <source>TaperWidth</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1252,350 +1242,360 @@
         <translation>شارك معنا برأيك !</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="43"/>
-        <source>#Earthquake #EQInfo #gempa</source>
-        <translation>#Earthquake #EQInfo #gempa</translation>
+        <location filename="../../app/view/Strings.qml" line="44"/>
+        <source>M%1, Epicenter at %2 and depth of %3 #Earthquake #EQInfo #gempa</source>
+        <translation>%1, مركز الزلزال في%2 وعلى عمق %3 #Earthquake #EQInfo #gempa</translation>
     </message>
     <message>
         <location filename="../../app/view/Strings.qml" line="45"/>
+        <source>Station %1 at %2 #RaspberryShake #EQInfo #gempa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/view/Strings.qml" line="46"/>
+        <source>Report at %1 with an intensity of %2 #FeltReport #EQInfo #gempa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../app/view/Strings.qml" line="48"/>
         <source>New in version %1</source>
         <translation>جديد النسخة %1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="46"/>
+        <location filename="../../app/view/Strings.qml" line="49"/>
         <source>
  Bugfixes and performace improvements</source>
         <translation>
  إصلاح الأخطاء وتحسين الأداء</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="48"/>
+        <location filename="../../app/view/Strings.qml" line="51"/>
         <source>No other information will be sent or saved. This data is only used for analytical purposes by gempa GmbH and will not be distributed to third parties.</source>
         <translation>لن يتم إرسال أو حفظ أي معلومات. سيتم استخدام هذه البيانات فقط لأغراض تحليلية من قبل gempa GmbH ولن يتم توزيعها لأي طرف ثالث.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="50"/>
+        <location filename="../../app/view/Strings.qml" line="53"/>
         <source>Finally send this report?&lt;br/&gt;You wont be able to edit it afterwards.</source>
         <translation>هل تريد أخيرًا إرسال هذا البلاغ (التقرير)؟ &lt;br/&gt; لن تتمكن من تحريره بعد ذلك.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="52"/>
+        <location filename="../../app/view/Strings.qml" line="55"/>
         <source>Error while sending report.&lt;br/&gt;%1</source>
         <translation>حدث خطأ عند ارسال البلاغ (التقرير). &lt;br/&gt;%1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="54"/>
+        <location filename="../../app/view/Strings.qml" line="57"/>
         <source>You will be notified about events according to your current filter settings.</source>
         <translation>سيتم إخطارك بالأحداث الزلزالية وفقًا لإعدادات المرشح الحالي.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="57"/>
+        <location filename="../../app/view/Strings.qml" line="60"/>
         <source>Do you own a Raspberry Shake Seismograph?</source>
         <translation>هل تملك جهاز a Raspberry Shake Seismograph ؟</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="59"/>
+        <location filename="../../app/view/Strings.qml" line="62"/>
         <source>Feel free to enter your personal Raspberry Shake ID below. Don&apos;t have a station, yet? %1</source>
         <translation>لا تتردد في إدخال معرّف Raspberry Shake الشخصي أدناه. ليس لديك محطة بعد؟ %1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="61"/>
+        <location filename="../../app/view/Strings.qml" line="64"/>
         <source>Check out our shop!</source>
         <translation>قم بزيارة متجرنا !</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="63"/>
+        <location filename="../../app/view/Strings.qml" line="66"/>
         <source>Please visit %1 for more information!</source>
         <translation>لطفاً قم بزيارة %1 لمزيد من المعلومات!</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="65"/>
+        <location filename="../../app/view/Strings.qml" line="68"/>
         <source>raspberryshake.org</source>
         <translation>raspberryshake.org</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="68"/>
+        <location filename="../../app/view/Strings.qml" line="71"/>
         <source>For our translations we rely on the community, if you want to contribute please visit %1</source>
         <translation>بالنسبة إلى ترجماتنا ، نعتمد على المجتمع ، إذا كنت تريد المساهمة فيرجى زيارة %1</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="70"/>
+        <location filename="../../app/view/Strings.qml" line="73"/>
         <source>github.com/gempa/eqinfo-translations</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="72"/>
+        <location filename="../../app/view/Strings.qml" line="75"/>
         <source>No event found</source>
         <translation>لا يوجد حدث زلزالي</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="73"/>
+        <location filename="../../app/view/Strings.qml" line="76"/>
         <source>%1 Earthquakes</source>
         <translation>%1 زلزال</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="74"/>
+        <location filename="../../app/view/Strings.qml" line="77"/>
         <source>No filter has been defined</source>
         <translation>لم يتم تحديد مرشح</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="82"/>
+        <location filename="../../app/view/Strings.qml" line="85"/>
         <source>Gempa</source>
         <extracomment>Map type</extracomment>
         <translation>Gempa</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="84"/>
+        <location filename="../../app/view/Strings.qml" line="87"/>
         <source>Terrain</source>
         <extracomment>Map type</extracomment>
         <translation>تضاريس</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="86"/>
+        <location filename="../../app/view/Strings.qml" line="89"/>
         <source>Satellite</source>
         <extracomment>Map type</extracomment>
         <translation>مصورة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="88"/>
+        <location filename="../../app/view/Strings.qml" line="91"/>
         <source>Hybrid</source>
         <extracomment>Map type</extracomment>
         <translation>Hybrid</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="100"/>
+        <location filename="../../app/view/Strings.qml" line="103"/>
         <source>Date</source>
         <extracomment>Option for sorting</extracomment>
         <translation>التاريخ</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="102"/>
+        <location filename="../../app/view/Strings.qml" line="105"/>
         <source>Distance</source>
         <extracomment>Option for sorting</extracomment>
         <translation>المسافة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="104"/>
+        <location filename="../../app/view/Strings.qml" line="107"/>
         <source>Magnitude</source>
         <extracomment>Option for sorting</extracomment>
         <translation>القوة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="106"/>
+        <location filename="../../app/view/Strings.qml" line="109"/>
         <source>Relevance</source>
         <extracomment>Option for sorting</extracomment>
         <translation>الملائمة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="129"/>
+        <location filename="../../app/view/Strings.qml" line="132"/>
         <source>Felt only by a few persons at rest, especially on upper floors of buildings.</source>
         <translation>شعر به عدد قليل من الأشخاص خصوصاً في الطوابق العليا.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="130"/>
+        <location filename="../../app/view/Strings.qml" line="133"/>
         <source>Felt quite noticeably by persons indoors, especially on upper floors of buildings. Many people do not recognize it as an earthquake. Standing motor cars may rock slightly. Vibrations similar to the passing of a truck.</source>
         <translation>شعر به بشكل ملحوظ من قبل الأشخاص في داخل المباني، خاصة في الطوابق العليا. كثير من الناس لم يتعرف عليه كزلزال. قد تهتز السيارات الواقفة قليلاً. الاهتزازات تكون مماثلة لمرور شاحنة.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="131"/>
+        <location filename="../../app/view/Strings.qml" line="134"/>
         <source>Felt indoors by many, outdoors by few during the day. At night, some awoke. Dishes, windows, doors disturbed. Walls make cracking sound. Sensation like heavy truck striking building. Standing motor cars rocked noticeably.</source>
         <translation>شعر به العديد من الأشخاص داخل المباني، وفي الخارج شعر به عدد قليل خلال النهار. في الليل استيقظ البعض. تحركت النوافذ، الأطباق، والأبواب. الجدران تصدر صوت تكسر. احساس مثل شاحنة ثقيلة وقد صدمت المبنى. تهتز السيارات والدرجات الواقفة بشكل ملحوظ.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="132"/>
+        <location filename="../../app/view/Strings.qml" line="135"/>
         <source>Felt by nearly everyone. Many awoke. Some dishes, windows broken. Unstable objects overturned. Pendulum clocks may stop.</source>
         <translation>شعر بها الجميع تقريباً. استيقظ الكثير من الاشخاص. بعض الأطباق والنوافذ مكسورة. الأدوات الغير ثابتة تسقط. ساعات البندول قد تتوقف.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="133"/>
+        <location filename="../../app/view/Strings.qml" line="136"/>
         <source>Felt by all, many frightened. Some heavy furniture moved. A few instances of fallen plaster. Damage slight.</source>
         <translation>شعر به الجميع، والعديد ذعروا. تحرك بعض الأثاث الثقيل. حالات قليلة من الجص الساقط. أضرار طفيفة.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="134"/>
+        <location filename="../../app/view/Strings.qml" line="137"/>
         <source>Damage negligible in buildings of good design and construction. Slight to moderate in well-built ordinary structures. Considerable damage in poorly built or badly designed structures. Some chimneys broken.</source>
         <translation>أضرار لا تذكر في المباني ذات التصميم والبناء الجيد. من خفيف الى متوسط الأضرار في الهياكل عادية جيدة البناء. ضرر كبير في الهياكل ذات البناء والتصميم السيء. بعض المداخن مكسورة.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="135"/>
+        <location filename="../../app/view/Strings.qml" line="138"/>
         <source>Slight damage in specially designed structures. Considerable damage in ordinary substantial buildings with partial collapse. Damage great in poorly built structures. Fall of chimneys, factory stacks, columns, monuments, walls. Heavy furniture overturned.</source>
         <translation>أضرار طفيفة في الهياكل ذات التصميم الخاص. أضرار كبيرة في المباني الكبيرة العادية مع انهيارات جزئية. أضرار كبيرة في هياكل سيئة البناء. سقوط المداخن، مداخن المصانع، الأعمدة، الآثار، الجدران. الأثاث الثقيل انقلب.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="136"/>
+        <location filename="../../app/view/Strings.qml" line="139"/>
         <source>Damage considerable in specially designed structures. Well-designed frame structures thrown out of plumb. Damage great in substantial buildings, with partial collapse. Buildings shifted off foundations.</source>
         <translation>أضرار كبيرة في الهياكل ذات التصميم الخاص. هياكل ذات التصميم الجيد تسقط . أضرار جسيمة في المباني الكبيرة، مع انهيارات جزئية. المباني انزاحت عن الأساس.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="137"/>
+        <location filename="../../app/view/Strings.qml" line="140"/>
         <source>Some well-built wooden structures destroyed. Most masonry and frame structures destroyed with foundations. Rails bent.</source>
         <translation>الهياكل الخشبية ذات البناء الجيد دمرت. معظم هياكل البناء والإطار دمرت مع الاساس. قضبان السكك الحديدية اعوجت.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="138"/>
+        <location filename="../../app/view/Strings.qml" line="141"/>
         <source>Not felt except by very few persons under especially favorable conditions.</source>
         <translation>لم يشعر به إلا عدد قليل من الأشخاص وفي ظروف ملائمة.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="150"/>
+        <location filename="../../app/view/Strings.qml" line="153"/>
         <source>EQInfo - Global Earthquakes</source>
         <extracomment>AppStore short description</extracomment>
         <translation>EQInfo - Global Earthquakes</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="152"/>
+        <location filename="../../app/view/Strings.qml" line="155"/>
         <source>EQInfo shows earthquake information world-wide. Information can be filtered by region, magnitude and agency. It provides system notifications and social media sharing options.</source>
         <extracomment>AppStore full description paragraph 1</extracomment>
         <translation>يعرض EQInfo معلومات الزلازل في جميع أنحاء العالم. يمكن تصفية (فلترة) المعلومات حسب المنطقة والحجم والوكالة. يوفر إشعارات النظام وخيارات مشاركة التواصل الاجتماعي.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="154"/>
+        <location filename="../../app/view/Strings.qml" line="157"/>
         <source>EQInfo was conceived and implemented by the expert developers of SeisComP3, http://www.gempa.de, a software platform used by most geophysical institutes in the world to automatically detect and locate earthquakes.</source>
         <extracomment>AppStore full description paragraph 2</extracomment>
         <translation>تم تصميم وتنفيذ EQInfo من قبل المطورين الخبراء لـ SeisComP3 ، http://www.gempa.de ، وهي منصة برمجية تستخدمها معظم المعاهد الجيوفيزيائية في العالم لرصد الزلازل وتحديد موقعها تلقائيًا.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="156"/>
+        <location filename="../../app/view/Strings.qml" line="159"/>
         <source>EQInfo integrates seamlessly with your Raspberry Shake personal seismograph, http://raspberryshake.org, to bring you up-to-the-minute earthquake announcements including waveform snippets from your very own Raspberry Shake. In doing so, EQInfo accesses the largest IoT citizen-scientist earthquake detection network in the world to bring you high fidelity earthquake information, http://raspberryshake.net/stationview/.</source>
         <extracomment>AppStore full description paragraph 3</extracomment>
         <translation>EQInfo يعمل بتكامل وبسلاسة مع جهاز قياس الزلازل الشخصي Raspberry Shake الخاص بك ، http://raspberryshake.org ، ليقدم لك إعلانات الزلزال المحدثة بما في ذلك مقتطفات لشكل الموجة من Raspberry Shake الخاص بك. من خلال القيام بذلك ، تصل EQInfo إلى أكبر شبكة لرصد الزلازل للمواطنين والعلماء في إنترنت الأشياء في العالم لتزويدك بمعلومات عالية الدقة عن الزلازل ،http://raspberryshake.net/stationview/.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="158"/>
+        <location filename="../../app/view/Strings.qml" line="161"/>
         <source>EQInfo lets you submit &apos;Did you feel it&apos; reports from your mobile device. In doing so, everyone can help to better assess the impact that an earthquake might have in their community.</source>
         <extracomment>AppStore full description paragraph 4</extracomment>
         <translation>يتيح لك EQInfo إرسال بلاغات (تقارير) &quot;هل شعرت به&quot; من جهازك المحمول. عند القيام بذلك ، يمكن للجميع المساعدة في تقييم التأثير الذي قد يحدثه الزلزال في مجتمعهم بشكل أفضل.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="160"/>
+        <location filename="../../app/view/Strings.qml" line="163"/>
         <source>The following features are supported:</source>
         <extracomment>AppStore full description features</extracomment>
         <translation>الميزات التالية مدعومة:</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="162"/>
+        <location filename="../../app/view/Strings.qml" line="165"/>
         <source>1. List of latest earthquakes showing magnitude, region, origin time, direction/distance to the earthquake epicenter and earthquake monitoring agency</source>
         <extracomment>AppStore full description feature 1</extracomment>
         <translation>1 - قائمة بأحدث الزلازل التي توضح القوة والمنطقة ووقت الحدوث والاتجاه / المسافة إلى مركز الزلزال ووكالة رصد الزلازل</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="164"/>
+        <location filename="../../app/view/Strings.qml" line="167"/>
         <source>2. Earthquake details including overview map and multiple solutions from different agencies</source>
         <extracomment>AppStore full description feature 2</extracomment>
         <translation>2. تفاصيل الزلزال بما في ذلك خريطة عامة وحلول متعددة من وكالات مختلفة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="166"/>
+        <location filename="../../app/view/Strings.qml" line="169"/>
         <source>3. Map of latest earthquakes</source>
         <extracomment>AppStore full description feature 3</extracomment>
         <translation>3. خريطة الزلازل الأخيرة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="168"/>
+        <location filename="../../app/view/Strings.qml" line="171"/>
         <source>4. Submission and displaying of felt-reports</source>
         <extracomment>AppStore full description feature 4</extracomment>
         <translation>4. تقديم وعرض بلاغات (تقارير) الشعور بالزلزال</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="170"/>
+        <location filename="../../app/view/Strings.qml" line="173"/>
         <source>5. Visualization of earthquake waveforms from the Raspberry Shake network</source>
         <extracomment>AppStore full description feature 5</extracomment>
         <translation>5. عرض لشكل موجات الزلزال من شبكة Raspberry Shake</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="172"/>
+        <location filename="../../app/view/Strings.qml" line="175"/>
         <source>6. Sharing of event information via social media</source>
         <extracomment>AppStore full description feature 6</extracomment>
         <translation>6. مشاركة المعلومات عن الحدث الزلزالي عبر وسائل التواصل الاجتماعي</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="174"/>
+        <location filename="../../app/view/Strings.qml" line="177"/>
         <source>7. Define multiple filters for the earthquake information, filter by magnitude, depth, time and region</source>
         <extracomment>AppStore full description feature 7</extracomment>
         <translation>7. تحديد مرشحات متعددة لمعلومات الزلزال ، والتصفية حسب القوة والعمق والوقت والمنطقة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="176"/>
+        <location filename="../../app/view/Strings.qml" line="179"/>
         <source>8. Configuration of data sources, update intervals, geolocation and unit of measurement</source>
         <extracomment>AppStore full description feature 8</extracomment>
         <translation>8. ضبط مصادر البيانات، تحديث الفترات، تحديد الموقع الجغرافي ووحدة القياس</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="178"/>
+        <location filename="../../app/view/Strings.qml" line="181"/>
         <source>9. Background updates and notifications</source>
         <extracomment>AppStore full description feature 9</extracomment>
         <translation>9. تحديثات التطبيق في الخلفية والتنبيهات</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="180"/>
+        <location filename="../../app/view/Strings.qml" line="183"/>
         <source>The following agencies provide information to EQInfo:</source>
         <extracomment>AppStore full description agencies</extracomment>
         <translation>توفر الوكالات التالية معلومات إلى EQInfo:</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="182"/>
+        <location filename="../../app/view/Strings.qml" line="185"/>
         <source>- Raspberry Shake Citizen-Scientist Network, http://raspberryshake.org</source>
         <extracomment>AppStore full description agencies RSHAKE</extracomment>
         <translation>- Raspberry Shake شبكة المواطنين-العلماء، http://raspberryshake.org</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="184"/>
+        <location filename="../../app/view/Strings.qml" line="187"/>
         <source>A priority list for the agencies can be defined, taking care of the aggregation of information.</source>
         <extracomment>AppStore full description paragraph 5</extracomment>
         <translation>يمكن تحديد قائمة أولويات للوكالات، مع الاهتمام بتجميع المعلومات.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="186"/>
+        <location filename="../../app/view/Strings.qml" line="189"/>
         <source>EQInfo tries to minimize both the data volume and update time. Push messages are used if supported by the data provider.</source>
         <extracomment>AppStore full description paragraph 6</extracomment>
         <translation>يحاول EQInfo تقليل كل من حجم البيانات ووقت التحديث. يتم استخدام رسائل الدفع إذا كان مزود البيانات يدعمها.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="188"/>
+        <location filename="../../app/view/Strings.qml" line="191"/>
         <source>The gempa team would like to thank all users which provided feedback and thus helped to improve this App.</source>
         <extracomment>AppStore full description paragraph 7</extracomment>
         <translation>يود فريق gempa أن يشكر جميع المستخدمين الذين قدموا ملاحظاتهم وبالتالي ساعدوا في تحسين هذا التطبيق.</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="190"/>
+        <location filename="../../app/view/Strings.qml" line="193"/>
         <source>If you are a native speaker and want to help us by providing some translations, please feel free to contact us at any time!</source>
         <extracomment>AppStore full description paragraph 8</extracomment>
         <translation>إذا كنت متحدثًا أصليًا وترغب في مساعدتنا من خلال تقديم بعض الترجمات ، فلا تتردد في الاتصال بنا في أي وقت!</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="209"/>
+        <location filename="../../app/view/Strings.qml" line="212"/>
         <source>German Research Centre for Geosciences</source>
         <extracomment>Agencies GFZ - title</extracomment>
         <translation>مركز الأبحاث الألماني لعلوم الأرض</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="211"/>
+        <location filename="../../app/view/Strings.qml" line="214"/>
         <source>Germany, Worldwide</source>
         <extracomment>Agencies GFZ - regions</extracomment>
         <translation>ألمانيا، جميع أنحاء العالم</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="214"/>
+        <location filename="../../app/view/Strings.qml" line="217"/>
         <source>United States Geological Survey</source>
         <extracomment>Agencies USGS - title</extracomment>
         <translation>هيئة المساحة الجيولوجية الأمريكية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="216"/>
+        <location filename="../../app/view/Strings.qml" line="219"/>
         <source>USA, Worldwide</source>
         <extracomment>Agencies USGS - regions</extracomment>
         <translation>أمريكا، جميع أنحاء العالم</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="219"/>
+        <location filename="../../app/view/Strings.qml" line="222"/>
         <source>European-Mediterranean Seismological Centre</source>
         <extracomment>Agencies EMSC - title</extracomment>
         <translation>المركز الأوروبي المتوسطي لرصد الزلازل</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="221"/>
-        <location filename="../../app/view/Strings.qml" line="296"/>
-        <location filename="../../app/view/Strings.qml" line="301"/>
+        <location filename="../../app/view/Strings.qml" line="224"/>
+        <location filename="../../app/view/Strings.qml" line="299"/>
+        <location filename="../../app/view/Strings.qml" line="304"/>
         <source>Worldwide</source>
         <extracomment>Agencies EMSC - regions
 ----------
@@ -1605,50 +1605,50 @@ Agencies IRIS - regions</extracomment>
         <translation>جميع أنحاء العالم</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="224"/>
+        <location filename="../../app/view/Strings.qml" line="227"/>
         <source>Indonesian Agency for Meteorology, Climatology and Geophysics</source>
         <extracomment>Agencies BMKG - title</extracomment>
         <translation>وكالة الأرصاد الجوية وعلم المناخ والجيوفيزياء الإندونيسية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="226"/>
+        <location filename="../../app/view/Strings.qml" line="229"/>
         <source>Indonesia</source>
         <extracomment>Agencies BMKG - regions</extracomment>
         <translation>أندونيسيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="229"/>
+        <location filename="../../app/view/Strings.qml" line="232"/>
         <source>Natural Resources Canada</source>
         <extracomment>Agencies NRCAN - title</extracomment>
         <translation>هيئة الموارد الطبيعية الكندية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="231"/>
+        <location filename="../../app/view/Strings.qml" line="234"/>
         <source>Canada</source>
         <extracomment>Agencies NRCAN - regions</extracomment>
         <translation>كندا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="234"/>
+        <location filename="../../app/view/Strings.qml" line="237"/>
         <source>Spanish National Geographic Institute</source>
         <extracomment>Agencies IGN - title</extracomment>
         <translation>المعهد الجغرافي الوطني الاسباني</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="236"/>
+        <location filename="../../app/view/Strings.qml" line="239"/>
         <source>Spain</source>
         <extracomment>Agencies IGN - regions</extracomment>
         <translation>إسبانيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="239"/>
+        <location filename="../../app/view/Strings.qml" line="242"/>
         <source>National Observatory of Athens</source>
         <extracomment>Agencies NOA - title</extracomment>
         <translation>المرصد الوطني لأثينا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="241"/>
-        <location filename="../../app/view/Strings.qml" line="246"/>
+        <location filename="../../app/view/Strings.qml" line="244"/>
+        <location filename="../../app/view/Strings.qml" line="249"/>
         <source>Greece</source>
         <extracomment>Agencies NOA - regions
 ----------
@@ -1656,211 +1656,211 @@ Agencies AUTH - regions</extracomment>
         <translation>اليونان</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="244"/>
+        <location filename="../../app/view/Strings.qml" line="247"/>
         <source>Aristotle University Of Thessaloniki</source>
         <extracomment>Agencies AUTH - title</extracomment>
         <translation>جامعة أرسطو في سالونيك</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="249"/>
+        <location filename="../../app/view/Strings.qml" line="252"/>
         <source>Kandilli Observatory and Earthquake Research Institute</source>
         <extracomment>Agencies KOERI - title</extracomment>
         <translation>مرصد كانديلي ومعهد أبحاث الزلازل</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="251"/>
+        <location filename="../../app/view/Strings.qml" line="254"/>
         <source>Turkey</source>
         <extracomment>Agencies KOERI - regions</extracomment>
         <translation>تركيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="254"/>
+        <location filename="../../app/view/Strings.qml" line="257"/>
         <source>Geological and Nuclear Sciences</source>
         <extracomment>Agencies GNS - title</extracomment>
         <translation>العلوم الجيولوجية والنووية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="256"/>
+        <location filename="../../app/view/Strings.qml" line="259"/>
         <source>New Zealand</source>
         <extracomment>Agencies GNS - regions</extracomment>
         <translation>نيوزيلاند</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="259"/>
+        <location filename="../../app/view/Strings.qml" line="262"/>
         <source>Geoscience Australia</source>
         <extracomment>Agencies GA - title</extracomment>
         <translation>علوم أرض أستراليا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="261"/>
+        <location filename="../../app/view/Strings.qml" line="264"/>
         <source>Australia</source>
         <extracomment>Agencies GA - regions</extracomment>
         <translation>أستراليا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="264"/>
+        <location filename="../../app/view/Strings.qml" line="267"/>
         <source>Bureau of Economic Geology, University of Texas at Austin</source>
         <extracomment>Agencies TXNet - title</extracomment>
         <translation>مكتب الجيولوجيا الاقتصادية، جامعة تكساس في أوستن</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="266"/>
+        <location filename="../../app/view/Strings.qml" line="269"/>
         <source>Texas, USA</source>
         <extracomment>Agencies TXNet - regions</extracomment>
         <translation>ولاية تكساس، الولايات المتحدة الأمريكية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="269"/>
+        <location filename="../../app/view/Strings.qml" line="272"/>
         <source>Hessian State Office for Conservation, Environment and Geology</source>
         <extracomment>Agencies HLNUG - title</extracomment>
         <translation>مكتب ولاية هيسيان للحفظ والبيئة والجيولوجيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="271"/>
+        <location filename="../../app/view/Strings.qml" line="274"/>
         <source>Hessen, Germany</source>
         <extracomment>Agencies HLNUG - regions</extracomment>
         <translation>هيسين، ألمانيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="274"/>
+        <location filename="../../app/view/Strings.qml" line="277"/>
         <source>School and Observatory of Earth Sciences</source>
         <extracomment>Agencies EOST - title</extracomment>
         <translation>مدرسة ومرصد علوم الأرض</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="276"/>
+        <location filename="../../app/view/Strings.qml" line="279"/>
         <source>France</source>
         <extracomment>Agencies EOST - regions</extracomment>
         <translation>فرنسا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="279"/>
+        <location filename="../../app/view/Strings.qml" line="282"/>
         <source>Swiss Seismological Service</source>
         <extracomment>Agencies ETHZ - title</extracomment>
         <translation>خدمة رصد الزلازل السويسرية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="281"/>
+        <location filename="../../app/view/Strings.qml" line="284"/>
         <source>Switzerland</source>
         <extracomment>Agencies ETHZ - regions</extracomment>
         <translation>سويسرا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="284"/>
+        <location filename="../../app/view/Strings.qml" line="287"/>
         <source>National Center for Seismology, Ministry of Earth Sciences</source>
         <extracomment>Agencies NCS - title</extracomment>
         <translation>المركز الوطني لعلم الزلازل، وزارة علوم الأرض</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="286"/>
+        <location filename="../../app/view/Strings.qml" line="289"/>
         <source>India</source>
         <extracomment>Agencies NCS - regions</extracomment>
         <translation>جمهورية الهند</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="289"/>
+        <location filename="../../app/view/Strings.qml" line="292"/>
         <source>Seismology in Central Germany</source>
         <extracomment>Agencies SIM - title</extracomment>
         <translation>علم الزلازل في وسط ألمانيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="291"/>
+        <location filename="../../app/view/Strings.qml" line="294"/>
         <source>Central Germany</source>
         <extracomment>Agencies SIM - regions</extracomment>
         <translation>وسط ألمانيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="294"/>
+        <location filename="../../app/view/Strings.qml" line="297"/>
         <source>Raspberry Shake Personal Seismograph Network - solutions are still experimental</source>
         <extracomment>Agencies GEMPA - title</extracomment>
         <translation>Raspberry Shake Personal Seismograph Network - الحلول لا تزال تجريبية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="299"/>
+        <location filename="../../app/view/Strings.qml" line="302"/>
         <source>Incorporated Research Institutions for Seismology</source>
         <extracomment>Agencies IRIS - title</extracomment>
         <translation>المؤسسات البحثية المدمجة لعلم الزلازل</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="304"/>
+        <location filename="../../app/view/Strings.qml" line="307"/>
         <source>Bavarian Earthquake Service</source>
         <extracomment>Agencies LMU - title</extracomment>
         <translation>خدمة الزلازل البافارية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="306"/>
+        <location filename="../../app/view/Strings.qml" line="309"/>
         <source>Bavaria, Germany</source>
         <extracomment>Agencies LMU - regions</extracomment>
         <translation>بافاريا، ألمانيا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="309"/>
+        <location filename="../../app/view/Strings.qml" line="312"/>
         <source>National Institute of Geophysics and Volcanology</source>
         <extracomment>Agencies INGV - title</extracomment>
         <translation>المعهد الوطني للجيوفيزياء والبراكين</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="311"/>
+        <location filename="../../app/view/Strings.qml" line="314"/>
         <source>Italy</source>
         <extracomment>Agencies INGV - regions</extracomment>
         <translation>إيطاليا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="314"/>
+        <location filename="../../app/view/Strings.qml" line="317"/>
         <source>Royal Netherlands Meteorological Institute</source>
         <extracomment>Agencies KNMI - title</extracomment>
         <translation>المعهد الملكي الهولندي للأرصاد الجوية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="316"/>
+        <location filename="../../app/view/Strings.qml" line="319"/>
         <source>Netherlands</source>
         <extracomment>Agencies KNMI - regions</extracomment>
         <translation>هولندا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="319"/>
+        <location filename="../../app/view/Strings.qml" line="322"/>
         <source>Seismological Center at the University of São Paulo</source>
         <extracomment>Agencies IAG - title</extracomment>
         <translation>مركز رصد الزلازل بجامعة ساوباولو</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="321"/>
+        <location filename="../../app/view/Strings.qml" line="324"/>
         <source>Brasil, South America</source>
         <extracomment>Agencies IAG - regions</extracomment>
         <translation>البرازيل، أمريكا الجنوبية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="324"/>
+        <location filename="../../app/view/Strings.qml" line="327"/>
         <source>Geoazur Seismology Observatory</source>
         <extracomment>Agencies SISMOAZUR - title</extracomment>
         <translation>معهد جيوأزور لرصد الزلازل</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="326"/>
+        <location filename="../../app/view/Strings.qml" line="329"/>
         <source>Southern France</source>
         <extracomment>Agencies SISMOAZUR - regions</extracomment>
         <translation>جنوب فرنسا</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="329"/>
+        <location filename="../../app/view/Strings.qml" line="332"/>
         <source>Observatories &amp; Research Facilities for European Seismology</source>
         <extracomment>Agencies ORFEUS - title</extracomment>
         <translation>المراصد والمنشآت البحثية لعلم الزلازل الأوروبية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="331"/>
+        <location filename="../../app/view/Strings.qml" line="334"/>
         <source>European Mediterranean</source>
         <extracomment>Agencies ORFEUS - regions</extracomment>
         <translation>الأوروبية المتوسطية</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="334"/>
+        <location filename="../../app/view/Strings.qml" line="337"/>
         <source>Ayiti-Séisme</source>
         <extracomment>Agencies HAITI - title</extracomment>
         <translation>هايتي للزلازل</translation>
     </message>
     <message>
-        <location filename="../../app/view/Strings.qml" line="336"/>
+        <location filename="../../app/view/Strings.qml" line="339"/>
         <source>Haiti</source>
         <extracomment>Agencies HAITI - regions</extracomment>
         <translation>هايتي</translation>
@@ -1875,19 +1875,19 @@ Agencies AUTH - regions</extracomment>
         <translation>السعة</translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Trace.qml" line="450"/>
+        <location filename="../../app/view/Components/Trace.qml" line="460"/>
         <source>Live</source>
         <extracomment>A &gt;&gt;live&lt;&lt; view of the trace data</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Trace.qml" line="473"/>
+        <location filename="../../app/view/Components/Trace.qml" line="483"/>
         <source>Connection Timeout</source>
         <extracomment>As an error when fetching the trace</extracomment>
         <translation>انتهى وقت محاولة الاتصال</translation>
     </message>
     <message>
-        <location filename="../../app/view/Components/Trace.qml" line="513"/>
+        <location filename="../../app/view/Components/Trace.qml" line="523"/>
         <source> UTC </source>
         <extracomment>Universal Time Code</extracomment>
         <translation> UTC التوقيت العالمي </translation>
@@ -1946,25 +1946,25 @@ Agencies AUTH - regions</extracomment>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../app/view/main.qml" line="235"/>
+        <location filename="../../app/view/main.qml" line="238"/>
         <source>Earthquake List</source>
         <extracomment>Title for event list menu button</extracomment>
         <translation>قائمة الزلازل</translation>
     </message>
     <message>
-        <location filename="../../app/view/main.qml" line="245"/>
+        <location filename="../../app/view/main.qml" line="248"/>
         <source>Map View</source>
         <extracomment>Title for map menu button</extracomment>
         <translation>مشاهدة الخريطة</translation>
     </message>
     <message>
-        <location filename="../../app/view/main.qml" line="254"/>
+        <location filename="../../app/view/main.qml" line="257"/>
         <source>Felt a quake</source>
         <extracomment>Title for &apos;did you feel it&apos; menu button</extracomment>
         <translation>شعرت بهزة أرضية</translation>
     </message>
     <message>
-        <location filename="../../app/view/main.qml" line="263"/>
+        <location filename="../../app/view/main.qml" line="266"/>
         <source>Settings</source>
         <extracomment>Title for settings menu button</extracomment>
         <translation>الإعدادات</translation>
